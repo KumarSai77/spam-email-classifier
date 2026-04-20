@@ -23,6 +23,12 @@ This project is a machine learning-based spam classifier that detects whether a 
 * Model training and evaluation
 * Real-time prediction using Streamlit
 
+ ## 📸 App Screenshot
+
+![App Screenshot](image.png)
+
+Streamlit-based user interface for real-time spam detection, powered by a TF-IDF vectorizer and Naive Bayes model trained on labeled text data. 
+
 ## ▶️ Run Locally
 
 ```bash
